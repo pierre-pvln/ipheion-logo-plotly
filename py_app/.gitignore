@@ -10,6 +10,6 @@ history/**
 CCF_*.txt
 
 # specific for this case
-assets
+assets/favicon*
 .flake8
 pyproject.toml
