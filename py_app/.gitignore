@@ -1,0 +1,15 @@
+Command Prompt.lnk
+
+# ignore everything in the history directory
+history/**
+
+# jupyter notebook
+.ipynb_checkpoints/**
+
+# Check, Clean and format output files
+CCF_*.txt
+
+# specific for this case
+assets
+.flake8
+pyproject.toml
